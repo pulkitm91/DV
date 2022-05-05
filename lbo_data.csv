@@ -1,11 +1,11 @@
-Deal,Value
-Twitter*,44
-TXU,32
-First Data,29
-RJR Nabisco,25
-Dell,24
-HJ Heinz,23
-Equity Office Partners,23
-Hospital Corporation of America Healthcare,21
-Hilton Worldwide,20
-Alliance Boots,19
+Deal,Value,Amount
+Twitter*,44,$44b
+TXU,32,$32b
+First Data,29,$29b 
+RJR Nabisco,25,$25b
+Dell,24,$24b
+HJ Heinz,23,$23b
+Equity Office Partners,23,$23b
+Hospital Corporation of America Healthcare,21,$21b
+Hilton Worldwide,20,$20b
+Alliance Boots,19,$19b
